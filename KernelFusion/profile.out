@@ -1,0 +1,13 @@
+Test batch size: 10000
+Loading fashion-mnist data...Done
+Loading model...Done
+Conv-GPU==
+Layer Time: 185.529 ms
+Op Time: 12.4194 ms
+Conv-GPU==
+Layer Time: 181.631 ms
+Op Time: 55.3952 ms
+
+Test Accuracy: 0.8714
+
+Generating '/tmp/nsys-report-e9ed.qdstrm'
